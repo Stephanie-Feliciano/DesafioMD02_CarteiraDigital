@@ -32,6 +32,7 @@ Obter Extrato de Transações: Os usuários podem gerar um extrato de suas trans
 Filtrar Transações por Categoria (Extra): Os usuários têm a opção de filtrar transações com base em categorias específicas;
 
 ▶️ Como executar o projeto
+
 🛠️ Pré-requisitos
 Possuir um editor de código-fonte, por exemplo VSCode ou Vim;
 Possuir o Git ou qualquer outro programa de versionamento;
