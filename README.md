@@ -2,15 +2,19 @@
 API REST desenvolvida para simular uma carteira digital (CRUD), seguindo os padrões REST utilizando Javascript e bibliotecas do NodeJS.
 
 💰 Back-end - API REST: Carteira Digital
+
 GitHub language count Repository size GitHub last commit Feito por Stephanie Feliciano
 
-🚧 API de Finanças (CRUD) 🚧 
+🚧 API de Finanças (CRUD) 🚧
+
 Status Concluído
 
 📝 Sobre o Projeto
+
 Este projeto consiste em uma RESTful API desenvolvida para atender às necessidades de gerenciamento de usuários, categorias e transações.
 
 📋 Funcionalidades
+
 Com esta API, os usuários podem realizar as seguintes ações:
 
 1. Gerenciamento de Usuários
@@ -34,6 +38,7 @@ Filtrar Transações por Categoria (Extra): Os usuários têm a opção de filtr
 ▶️ Como executar o projeto
 
 🛠️ Pré-requisitos
+
 Possuir um editor de código-fonte, por exemplo VSCode ou Vim;
 Possuir o Git ou qualquer outro programa de versionamento;
 Possuir o Node.js (versão 18.16.0 ou superior);
@@ -41,6 +46,7 @@ Possuir o Insomnia instalado;
 Possuir o Beekeeper instalado para criar e acessar o banco de dados (versão 3.9.20 ou superior).
 
 ⚙️ Instalação
+
 1. Clone este repositório em sua máquina local:
 2. Navegue até o diretório do projeto:
 cd nome_da_pasta
@@ -53,6 +59,7 @@ npm run dev
 7. Logo depois de configurar o Beekeeper, execute o Insomnia e configure um novo ambiente para testar as rotas da API. É possível fazer os testes importando o arquivo insomnia.
 
 🚀 Tecnologias Utilizadas
+
 1. Node.js (versão 18.16.0);
 
 2. Bibliotecas:
@@ -69,6 +76,7 @@ JavaScript.
 🎲 Demonstração da Aplicação
 
 🤝 Contribuição
+
 Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos recursos a esta API, siga as etapas abaixo:
 
 1. Crie um Fork deste repositório;
@@ -78,9 +86,11 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos rec
 5. Abra um pull request.
 
 🧙‍♂️ Autora
+
 Projeto Back-end desenvolvido por Stephanie Feliciano, como desafio do modulo 3 do curso de Desenvolvimento de Software - Foco em Back-end da Cubos Academy ✨
 
 📝 Licença
+
 Feito por Stephanie Feliciano 👋🏽 Entre em contato!
 
 Divirta-se explorando a API! 🌟
